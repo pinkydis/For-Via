@@ -10,7 +10,7 @@ def hash(text):
 
 
 text = ''
-path = '/home/debian/PythonStart/WeirdProject/Weird'
+path = 'Put this the directory'
 lis = []
 di = []
 
